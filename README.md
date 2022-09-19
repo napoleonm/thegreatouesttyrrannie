@@ -4,22 +4,22 @@ _splashdown_
 .
 .
 
-**SORT*
+**SORT**
 
-**PARSE*
+**PARSE**
 
-**GENERATE*
+**GENERATE**
 
-**SUGGEST*
+**SUGGEST**
 
 *PLAY*
 
 *PIECEWISE BACKPROPAGATE*
 
-**ATTAIN* _coefficient gradient_
+**ATTAIN** _coefficient gradient_
 
-**GAIN* _gain function_
+**GAIN** _gain function_
 
 *MAIN*
 
-**U*
+**U**
