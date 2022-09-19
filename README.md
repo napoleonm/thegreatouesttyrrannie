@@ -3,7 +3,7 @@ _splashdown_
 
 .
 .
-
+--_battle_--
 **SORT**
 
 **PARSE**
@@ -14,6 +14,7 @@ _splashdown_
 
 *PLAY*
 
+--_population delegation_--
 *PIECEWISE BACKPROPAGATE*
 
 **ATTAIN** _coefficient gradient_
