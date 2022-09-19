@@ -3,13 +3,13 @@ _splashdown_
 
 .
 .
-SORT
-PARSE
-GENERATE
-SUGGEST
-PLAY
-PIECEWISE BACKPROPAGATE
-ATTAIN
-GAIN
-MAIN
-U
+\n#SORT#
+\n#PARSE#
+\n#GENERATE#
+\n#SUGGEST#
+\n#PLAY#
+\n#PIECEWISE BACKPROPAGATE#
+\n#ATTAIN# _coefficient gradient_
+\n#GAIN# _gain function_
+\n#MAIN#
+\n#U#
